@@ -14,15 +14,15 @@
 	},
 	"experience": [
 		{
-			"position": "Governor of Supportive group of Board of the Bank",
-			"organization": "Artsakhbank CJSC",
-			"start": "2014-04",
+			"position": "Front-end Developer",
+			"organization": "Doublecoconut",
+			"start": "2015-03",
 			"end": ""
 		},
 		{
-			"position": "Front-end Developer",
-			"organization": "Bills.com",
-			"start": "2014-05",
+			"position": "Governor of Supportive group of Board of the Bank",
+			"organization": "Artsakhbank CJSC",
+			"start": "2014-04",
 			"end": ""
 		},
 		{
@@ -30,6 +30,12 @@
 			"organization": "French University in Armenia Foundation",
 			"start": "2010",
 			"end": ""
+		},
+		{
+			"position": "Front-end Developer",
+			"organization": "Bills.com",
+			"start": "2014-05",
+			"end": "2015-03"
 		},
 		{
 			"position": "Financial Adviser",
@@ -43,7 +49,6 @@
 			"start": "2011-04",
 			"end": "2013-09"
 		},
-
 		{
 			"position": "Regional head of credit specialists of Yerevan branches of Commercial financing department",
 			"organization": "Converse Bank CJSC",
