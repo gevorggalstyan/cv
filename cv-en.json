@@ -202,7 +202,27 @@
 			"date": "2001-04"
 		}
 	],
-	"computerSkills": ["MS Windows 9x-8.1", "Linux", "Mac OSX", "MS Office Word", "MS Office Excel", "MS Office PowerPoint", "MS Office OneNote", "MS Office Outlook", "MS Visio 2003-2010", "MS Access 9x-2013", "MS SQL 200-2010", "ADODB", "MS .Net", "MS Studio VB, C#", "Adobe Photoshop CC", "Corel Draw 12-X6", "IntellijIDEA 13", "HTML5", "CSS3", "Javascript", "jQuery", "Ajax", "LessCSS", "Phonegap", "PHP", "MySQL", "MongoDB", "SEO"],
+	"computerSkills": [
+		"HTML5", 
+		"CSS3", 
+		"SASS/LESSCSS", 
+		"Javascript", 
+		"jQuery", 
+		"Ajax",
+		"PHP", 
+		"Nodejs",
+		"Phonegap/Cordova", 
+		"MySQL", 
+		"MongoDB", 
+		"SEO"
+		"OS: Mac OS X, Linux/Unix, Windows", 
+		"Adobe Photoshop CC",
+		"MS Office", 
+		"MS SQL", 
+		"MS .Net", 
+		"MS Studio VB, C#",
+		"MAMP"
+		],
 	"languages": [
 		{
 			"language": "Armenian",
