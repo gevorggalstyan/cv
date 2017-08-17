@@ -6,19 +6,17 @@
   "dateOfBirth": "1986-03-22",
   "email": "gevorg.galstyan@gmail.com",
   "emailPersonal": "gevorg@galstyan.am",
-  "phone": "+374 91 558788",
+  "phone": "+17078727166",
+  "phonePersonal": "+37491558788",
   "address": {
     "streetAddress": "19/4 Komitas ave.",
     "city": "Yerevan",
     "zip": "0012",
     "country": "Armenia"
   },
-  "profiles": {
-    "linkedin": "https://www.linkedin.com/in/gevorggalstyan",
-    "upwork": "https://www.upwork.com/freelancers/~0194a0ba5346f33e76",
-    "twitter": "https://twitter.com/gevorg_galstyan"
-  },
   "skype": "gevorg.galstyan",
+  "hangouts": "gevorg.galstyan@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/gevorggalstyan",
   "experience": [
     {
       "position": "Full-Stack Developer",
