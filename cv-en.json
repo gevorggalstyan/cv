@@ -5,7 +5,8 @@
   "gender": "male",
   "dateOfBirth": "1986-03-22",
   "email": "gevorg.galstyan@gmail.com",
-  "phone": "+374(91)558788",
+  "emailPersonal": "gevorg@galstyan.am",
+  "phone": "+374 91 558788",
   "address": {
     "streetAddress": "19/4 Komitas ave.",
     "city": "Yerevan",
@@ -13,7 +14,7 @@
     "country": "Armenia"
   },
   "profiles": {
-    "linkedin": "https://www.linkedin.com/in/nsquf58tyu",
+    "linkedin": "https://www.linkedin.com/in/gevorggalstyan",
     "upwork": "https://www.upwork.com/freelancers/~0194a0ba5346f33e76",
     "twitter": "https://twitter.com/gevorg_galstyan"
   },
@@ -22,7 +23,7 @@
     {
       "position": "Full-Stack Developer",
       "organization": "Doublecoconut",
-      "start": "2015-03",
+      "start": "2013-02",
       "end": ""
     },
     {
@@ -214,27 +215,82 @@
       "date": "2001-04"
     }
   ],
-  "computerSkills": [
-    "HTML/HTML5",
-    "CSS/CSS3",
-    "SASS/LESSCSS",
-    "Javascript/TypeScript/ES6",
-    "jQuery",
-    "Ajax",
-    "PHP",
-    "Nodejs",
-    "Phonegap/Cordova",
-    "MySQL",
-    "MongoDB",
-    "SEO",
-    "OS: Mac OS X, Linux/Unix, Windows",
-    "Adobe Photoshop CC",
-    "MS Office",
-    "MS SQL",
-    "MS .Net",
-    "MS Studio VB, C#",
-    "MAMP/MAMP PRO"
-  ],
+  "computerSkills": {
+    "languages": [
+      "HTML/HTML5",
+      "CSS/CSS3",
+      "Javascript/ES6",
+      "PHP",
+      "Python",
+      "Ruby",
+      "SQL",
+      "Bash Script",
+      "Golang"
+    ],
+    "applications": [
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "MS Office",
+      "Intellij IDEA",
+      "Visual Studio Code",
+      "Vim",
+      "MS Studio VB, C#"
+    ],
+    "frameworksOrLibraries": [
+      "jQuery",
+      "Bootstrap",
+      "Zurb Foundation",
+      "Express",
+      "Angular",
+      "Angular Material",
+      "React",
+      "Vue",
+      "Aurelia",
+      "Svelte",
+      "Slim Framework",
+      "Symfony",
+      "Mocha",
+      "Chai",
+      "Ruby on Rails",
+      "MS .Net",
+      "Ionic",
+      "Flask",
+      "Django"
+    ],
+    "operatingSystems": [
+      "macOS",
+      "Linux/UNIX",
+      "Windows",
+      "iOS",
+      "Andoid"
+    ],
+    "technologiesOrTools": [
+      "TypeScript",
+      "SASS",
+      "LESS",
+      "PostCSS",
+      "Stylus",
+      "Ajax",
+      "REST",
+      "Nodejs",
+      "Serverless",
+      "Phonegap/Cordova",
+      "MySQL",
+      "MariaDB",
+      "MongoDB",
+      "PostgreSQL",
+      "MS SQL",
+      "DynamoDB",
+      "SEO",
+      "SSH",
+      "Git/SVN",
+      "Vagrant",
+      "Docker",
+      "npm/yarn",
+      "packagist",
+      "Electron"
+    ]
+  },
   "languages": [
     {
       "language": "Armenian",
@@ -256,5 +312,23 @@
       "language": "German",
       "level": "Basic"
     }
+  ],
+  "portfolio": [
+    "https://highfidelity.com",
+    "http://insitu.sfmoma.org",
+    "https://bills.com",
+    "https://www.freedomplus.com",
+    "https://platform.inkubate.com",
+    "http://www.zoodles.com",
+    "https://cyberglob.com",
+    "http://www.customorientalrug.com",
+    "http://www.bet.com/shows/bet-awards/archives.html",
+    "http://crossroadskidsclub.com",
+    "http://logischplus.ch",
+    "InSitu Reservation and Restaurant management System",
+    "Exchange rates updating system for a bank",
+    "Jewel Quest HTML5 game",
+    "BET Voting System",
+    "... and dozens of Web and Mobile applications and games under NDA"
   ]
 }
